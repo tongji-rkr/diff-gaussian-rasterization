@@ -1,2 +1,2 @@
 # diff-gaussian-rasterization
-CudaRasterizer for Scaffold-GS
+CudaRasterizer for Scaffold-GS & Octree-GS
